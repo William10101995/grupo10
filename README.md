@@ -34,7 +34,7 @@ En este archivo creamos el recurso del servidor, y le setemos todos los valores 
 
 # Archivo **security_groups**
 
-![Security](/images/Security.png)
+![Security](/images/security.png)
 
 En este archivo definimos los protocolos de ingreso, **HTTP** y **SSH** en nuestro caso, asi como tambien los puerto a traves de los cuales se tendra acceso, **22** en caso de **SSH** y **80** en caso de **HTTP** y luego definiremos que ips tendran acceso, como solo es un caso de prueba daremos acceso a cualquiera aunque esto no se recomienda.
 
