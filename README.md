@@ -1,3 +1,5 @@
+# Diagrama de la infraestructura que se genera a partir de terraform
+![Estructura del Proyecto](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9405fa4e-a1fa-404e-8343-fe5d742e9eae/Infra_d4.drawio.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211123%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211123T231917Z&X-Amz-Expires=86400&X-Amz-Signature=32e85b77ab36dee3aaed3e813a4534f3353bafafc23cd204e5ee5f2746d9aa86&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Infra_d4.drawio.png%22&x-id=GetObject)
 # ARCHIVOS DE CONFIGURACION DE TERRAFORM
 
 Tomando como base los archivos de ejemplo que nos proveyo la catedra, realizamos las modificaciones necesarias para poder cumplir con lo solicitado en el enunciado del desafio.
